@@ -8,6 +8,7 @@
 	<ul>
 		<li>Ricardo Osit</li>
         <li>Jm Regino</li>
+        <li>Jewellyn Sambayan</li>
 
 	</ul>
 </body>
