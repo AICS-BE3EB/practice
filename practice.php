@@ -9,6 +9,7 @@
 		<li>Ricardo Osit</li>
         <li>Jm Regino</li>
         <li>Jewellyn Sambayan</li>
+        <li>Lovelyn Grace Lebrado</li>
 
 	</ul>
 </body>
