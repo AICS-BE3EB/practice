@@ -7,7 +7,7 @@
 <body>
 	<ul>
 		<li>Ricardo Osit</li>
-        <li>John Michael Regino</li>
+        <li>Jm Regino</li>
 
 	</ul>
 </body>
