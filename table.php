@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Table</title>
-
+	
 </head>
 <body>
 	<div class="table">
